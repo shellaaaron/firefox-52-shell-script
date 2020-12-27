@@ -11,6 +11,6 @@ This to install Firefox older version using this **BASH shell script**
 
 
 ```
-wget -N https://github.com/shellaaaron/firefox-52-shell-script/raw/main/install-firefox.sh && chmod 755 install-firefox.sh && ./install-firefox.sh
+wget -N https://raw.githubusercontent.com/shellaaaron/firefox-52-shell-script/main/install-firefox.sh && chmod 755 install-firefox.sh && ./install-firefox.sh
 ```
 2. Install should be done now and will run firefox as well.
